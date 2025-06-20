@@ -1,0 +1,34 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Project Overview: MCP Protocol Adoption for Small Businesses and Social Care
+
+This project aims to communicate the benefits of adopting the Model Context Protocol (MCP) for social care service providers in Scotland and small businesses in general.
+
+## Current Challenges
+
+Currently, social care providers and small businesses struggle with digital transformation and AI integration. Their information infrastructure hasn't been designed for modern integration, and when they attempt to implement AI solutions, they often need to "bolt on" systems that counteract the potential benefits of MCP or AI adoption.
+
+## Data Fragmentation Problem
+
+Small businesses and social care providers typically store their information in various formats including:
+- CSV files
+- PDF documents
+- Microsoft Word tables
+- Images
+- PowerBI dashboards
+
+However, they rarely use structured formats like JSON or Markdown that are essential for effective AI integration.
+
+## Project Goals
+
+This project will help communicate to small businesses and social care providers why they should:
+1. Standardise their information structure
+2. Prepare their data for MCP integration
+3. Leverage modern web-based infrastructure effectively
+
+## Technical Requirements
+
+The project should be built using HTML and CSS with a polished, professional design that conveys trust and expertise.
